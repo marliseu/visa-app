@@ -7,7 +7,8 @@
         <h5 class="header col s12 light">Some super cool tagline text</h5>
       </div>
       <div class="row center">
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Get Started</a>
+        <a href="register.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Get Started</a>
+        <a href="login.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Login</a>
       </div>
       <br><br>
 
