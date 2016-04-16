@@ -26,9 +26,9 @@
       <div class="col s12 m4">
         <div class="icon-block">
           <h2 class="center brown-text"><i class="material-icons">credit_card</i></h2>
-          <h5 class="center">Card Lock</h5>
+          <h5 class="center">Card Block</h5>
 
-          <p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+          <p class="light">Our Card Block feature enables card restrictions that block the purchase of alcohol or tobacco products from registered VISA cards</p>
         </div>
       </div>
 
