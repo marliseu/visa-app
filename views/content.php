@@ -58,7 +58,7 @@
   <div class="section no-pad-bot">
     <div class="container">
       <div class="row center">
-        <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+        <h5 class="header col s12 light"> 9 out of 10 smokers start before the age of 18,  and 98% start smoking by age 26.</h5>
       </div>
     </div>
   </div>
