@@ -2,7 +2,7 @@
   <div class="section no-pad-bot">
     <div class="container">
       <br><br>
-      <h1 class="header center teal-text text-lighten-2">Safety First</h1>
+      <h1 class="header center white-text text-lighten-2">Safety First</h1>
       <div class="row center">
         <h5 class="header col s12 light">Because the best way to avoid a tragedy is to prevent it.</h5>
       </div>
