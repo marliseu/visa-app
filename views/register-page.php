@@ -2,7 +2,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center teal-text text-lighten-2">Parallax Template</h1>
+        <h1 class="header center brown-text text-lighten-2">Parallax Template</h1>
         <br><br>
 
       </div>

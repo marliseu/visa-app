@@ -7,8 +7,8 @@
         <h5 class="header col s12 light">Because the best way to avoid a tragedy is to prevent it.</h5>
       </div>
       <div class="row center">
-        <a href="register.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Get Started</a>
-        <a href="login.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Login</a>
+        <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Get Started</a>
+        <a href="login.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Login</a>
       </div>
       <br><br>
 
