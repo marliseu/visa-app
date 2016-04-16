@@ -34,7 +34,7 @@
 
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center brown-text"><i class="material-icons">report_problem</i></h2>
+          <h2 class="center brown-text"><i class="material-icons">not_interested</i></h2>
           <h5 class="center">Alcohol Abuse</h5>
 
           <p class="light">In 2014, 87.6 percent of people ages 18 or older reported that they drank alcohol at some point in their lifetime; 71.0 percent reported that they drank in the past year; 56.9 percent reported that they drank in the past month.</p>
@@ -43,7 +43,7 @@
 
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center brown-text"><i class="material-icons">not_interested</i></h2>
+          <h2 class="center brown-text"><i class="material-icons">report_problem</i></h2>
           <h5 class="center">Underage Use</h5>
 
           <p class="light">Tobacco use is the leading cause of preventable illness and death in the United States. It causes many different cancers as well as chronic lung diseases such as emphysema and bronchitis, heart disease, pregnancy-related problems, and many other serious health problems.</p>
