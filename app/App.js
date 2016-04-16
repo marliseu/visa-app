@@ -3,9 +3,9 @@ import {render} from 'react-dom';
 
 class App extends Component {
   render(){
-    var place ="World";
     return (
-      <Header />
+      <h1>Hello World</h1>
+      // <Header />
     );
   }
 }
