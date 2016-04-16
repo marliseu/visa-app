@@ -16,7 +16,11 @@ p {
 }
 
 .button-collapse {
-  color: #26a69a;
+  color: #795548;
+}
+
+#nav-mobile > li:hover {
+  background-color: #a1887f;
 }
 
 .parallax-container {
