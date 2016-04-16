@@ -121,7 +121,7 @@
     </div>
     <div class="footer-copyright">
       <div class="container">
-      Made by <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+      Made by <a class="brown-text text-lighten-3" href="http://cs50xmiami.com">Team50</a>
       </div>
     </div>
   </footer>
