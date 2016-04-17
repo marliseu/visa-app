@@ -51,7 +51,7 @@
           <div class="row">
             <div class="input-field col s12">
               <i class="material-icons brown-text prefix">credit_card</i>
-              <input id="email" type="number" name="ccnum" class="validate" required>
+              <input id="ccnum" type="number" name="ccnum" class="validate" required>
               <label for="email">Credit Card Number</label>
             </div>
           </div>
