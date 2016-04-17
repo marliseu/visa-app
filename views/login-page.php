@@ -2,7 +2,10 @@
   <div class="section">
     <div class="container">
       <br><br>
-      <h1 class="header center white-text text-lighten-2">Log In</h1>
+      <h1 class="header center white-text text-lighten-2">Welcome!</h1>
+      <div class="row center">
+        <h5 class="header col s12 light">Ready to continue your journey?</h5>
+      </div>
     </div>
   </div>
   <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>

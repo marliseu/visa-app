@@ -30,7 +30,7 @@ html, body {
   height:25%;
 }
 #banner > div.section > div {
-    vertical-align: middle;
+  margin-top: -10%;
 }
 
  body {

@@ -6,7 +6,7 @@
         <ul class="right hide-on-med-and-down">
           <li><a href="index.php">Home</a></li>
           <?php if ($title == "Dashboard"){
-            echo '<li><a href="dashboard.html">Dashboard</a></li>
+            echo '<li><a href="dashboard.php">Dashboard</a></li>
             <li><a href="user.html"</li>';
           } elseif ($title == "Log In") {
             echo '<li><a href="register.php">Register</a></li>';
@@ -21,8 +21,8 @@
           <?php if (!isset($_SESSION['id']) || $_SESSION['id'] == '' ){
             echo '<li><a href="login.php">Log In</a></li>';
           } else {
-            echo '<li><a href="dashboard.html">Dashboard</a></li>
-            <li><a href="user.html"</li>';
+            echo '<li><a href="dashboard.php">Dashboard</a></li>
+            <li><a href="user.html">User</a></li>';
           }
           ?>
         </ul>

@@ -261,7 +261,7 @@
             </div>
         </div>
     </div>
-</div>
+
 <footer class="page-footer brown">
   <div class="footer-copyright brown">
     <div class="container brown">
@@ -275,7 +275,7 @@
 <script src="js/materialize.js"></script>
 <script src="js/init.js"></script>
 <script src="js/scroll-to-div.js"></script>
-<!--   Core JS Files   -->
+  Core JS Files   -->
 <script src="js/jquery-1.10.2.js" type="text/javascript"></script>
 <script src="js/bootstrap.min.js" type="text/javascript"></script>
 <!--  Checkbox, Radio & Switch Plugins -->
@@ -303,7 +303,7 @@
         });
 
   });
-</script> -->
+</script>
 
 </body>
 </html>
