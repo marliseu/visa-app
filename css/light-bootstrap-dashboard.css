@@ -140,10 +140,10 @@ body,
 }
 
 a {
-  color: #1DC7EA;
+  color: #bcaaa4;
 }
 a:hover, a:focus {
-  color: #42d0ed;
+  color: #bcaaa4;
   text-decoration: none;
 }
 
@@ -977,6 +977,7 @@ body > .navbar-collapse[data-color="purple"]:after {
   position: absolute;
   top: 50%;
   margin-top: -15px;
+
 }
 .alert button.close {
   position: absolute;

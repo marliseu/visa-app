@@ -1,3 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <!-- MAKE MOBILE FRIENDLY -->
+  <meta name="theme-color" content="#5d4037">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#5d4037">
+  <link rel="icon" type="image/png" href="assets/img/favicon.ico">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+  <meta name="viewport" content="width=device-width" />
+  <!-- Bootstrap core CSS     -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" />
+  <!-- Animation library for notifications   -->
+  <link href="css/animate.min.css" rel="stylesheet"/>
+  <!--  Light Bootstrap Table core CSS    -->
+  <link href="css/light-bootstrap-dashboard.css" rel="stylesheet"/>
+  <!--  CSS for Demo Purpose, don't include it in your project     -->
+  <link href="css/demo.css" rel="stylesheet" />
+    <!--     Fonts and icons     -->
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
+  <link href="css/pe-icon-7-stroke.css" rel="stylesheet" />
+  <title>
+    <?php if (isset($title)) {
+        echo $title . " | First Step";
+    } else {
+        echo "First Step";
+    } ?>
+  </title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,300italic,300,400italic,700,700italic,900,900italic,100italic,100' rel='stylesheet' type='text/css'>
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+
+</head>
+<body>
+  <div class="wrapper">
+    <nav class="brown darken-3" role="navigation">
+      <div class="nav-wrapper container">
+        <a id="logo-container" href="index.php" class="brand-logo">First Step</a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="index.php">Home</a></li>
+          <?php if (!isset($_SESSION['id']) || $_SESSION['id'] == '' ){
+            echo '<li><a href="login.php">Log In</a></li>';
+          } else {
+            echo '<li><a href="dashboard.html">Dashboard</a></li>
+            <li><a href="user.html"</li>';
+          }
+          ?>
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+          <li><a href="index.php">Home</a></li>
+          <?php if (!isset($_SESSION['id']) || $_SESSION['id'] == '' ){
+            echo '<li><a href="login.php">Log In</a></li>';
+          } else {
+            echo '<li><a href="dashboard.html">Dashboard</a></li>
+            <li><a href="user.html"</li>';
+          }
+          ?>
+        </ul>
+        <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+      </div>
+    </nav>
+
 <div class="content">
     <div class="container-fluid">
         <div class="row">
@@ -191,3 +262,48 @@
         </div>
     </div>
 </div>
+<footer class="page-footer brown">
+  <div class="footer-copyright brown">
+    <div class="container brown">
+    Made by <a class="brown-text text-lighten-3" href="http://cs50xmiami.com">Team50</a>
+    </div>
+  </div>
+</footer>
+</div>
+<!--  Scripts-->
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="js/materialize.js"></script>
+<script src="js/init.js"></script>
+<script src="js/scroll-to-div.js"></script>
+<!--   Core JS Files   -->
+<script src="js/jquery-1.10.2.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+<!--  Checkbox, Radio & Switch Plugins -->
+<script src="js/bootstrap-checkbox-radio-switch.js"></script>
+<!--  Charts Plugin -->
+<script src="js/chartist.min.js"></script>
+<!--  Notifications Plugin    -->
+<script src="js/bootstrap-notify.js"></script>
+<!-- Light Bootstrap Table Core javascript and methods for Demo purpose -->
+<script src="js/light-bootstrap-dashboard.js"></script>
+<!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
+<script src="js/demo.js"></script>
+<!-- <script type="text/javascript">
+  $(document).ready(function(){
+
+      demo.initChartist();
+
+      $.notify({
+          icon: 'pe-7s-gift',
+          message: "Welcome to <b>First Step</b> - a beautiful a step toward freedom."
+
+        },{
+            type: 'success',
+            timer: 4000
+        });
+
+  });
+</script> -->
+
+</body>
+</html>

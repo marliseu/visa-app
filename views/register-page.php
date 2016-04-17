@@ -51,7 +51,7 @@
           <div class="row">
             <div class="input-field col s12">
               <i class="material-icons brown-text prefix">credit_card</i>
-              <input id="email" type="number" name="ccnum" class="validate" required>
+              <input id="ccnum" type="number" name="ccnum" class="validate" required>
               <label for="email">Credit Card Number</label>
             </div>
           </div>
@@ -60,7 +60,7 @@
               <i class="material-icons right">send</i>
             </button>
           </div>
-          <p class="center-align">Or <a href="login.php" class="brown-text text-lighten-2">log in</a></p>
+          <p class="center-align">Or <a href="login.php" class="brown-text text-lighten-2">Log In</a></p>
         </form>
       </div>
     </div>
