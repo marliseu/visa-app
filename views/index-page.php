@@ -6,14 +6,15 @@
       <div class="row center">
         <h5 class="header col s12 light">Addiction can take over your life. <br />Free yourself.</h5>
       </div>
+      <div style="padding:20px;"></div>
       <div class="row center col-sm-4">
-            <a href="register.php" id="download-button" class="btn-large hoverable waves-effect waves-light brown">Get Started</a>
+            <a href="register.php#form" id="download-button" class="btn-large hoverable waves-effect waves-light brown" style="margin:5px;">Get Started</a>
             <a href="#info" id="download-button" class="btn-large hoverable waves-effect waves-light brown">Learn More</a>
       </div>
       <br><br>
     </div>
   </div>
-  <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
+  <div class="parallax"><img src="background5.jpg" alt="Unsplashed background img 1"></div>
 </div>
 <div class="container" id="info">
   <h3 class="center" style="margin-top:40px;">How It Works</h3>

@@ -1,8 +1,17 @@
-  <div id="banner" class="parallax-container">
+  <div id="banner" class="parallax-container" style="height:100%;">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <br><br>
+        <h1 class="header center white-text text-lighten-2">Welcome!</h1>
+        <div class="row center">
+          <h5 class="header col s12 light">Start your journey by registering below.</h5>
+        </div>
+      </div>
+    </div>
     <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
   </div>
 
-  <div class="container">
+  <div class="container" id="form" style="height:83%;">
     <div class="section">
       <?= $formError ?>
       <form class="col s12" action="register.php" method="post">
@@ -52,6 +61,7 @@
               <i class="material-icons right">send</i>
             </button>
           </div>
+          <p class="center-align">Or <a href="login.php" class="brown-text text-lighten-2">log in</a></p>
         </form>
       </div>
     </div>

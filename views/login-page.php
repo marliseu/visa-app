@@ -1,7 +1,13 @@
-<div id="banner" class="parallax-container">
+<div id="banner" class="parallax-container" style="height:45%;">
+  <div class="section no-pad-bot">
+    <div class="container">
+      <br><br>
+      <h1 class="header center white-text text-lighten-2">Log In</h1>
+    </div>
+  </div>
   <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
 </div>
-<div class="container">
+<div class="container" id="form" style="height:55%;">
   <div class="section" style="margin:10px;">
     <div class="row">
       <form class="col s12">
@@ -23,6 +29,9 @@
           <button class="btn waves-effect brown waves-light" type="submit" name="action">Submit
             <i class="material-icons right">send</i>
           </button>
+        </div>
+        <div class="center-align">
+          <p class="center-align">Or <a href="register.php" class="brown-text text-lighten-2">register</a></p>
         </div>
       </form>
     </div>
