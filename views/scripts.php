@@ -16,7 +16,7 @@
 <script src="js/light-bootstrap-dashboard.js"></script>
 <!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
 <script src="js/demo.js"></script>
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   $(document).ready(function(){
 
       demo.initChartist();
@@ -26,12 +26,12 @@
           message: "Welcome to <b>First Step</b> - a beautiful a step toward freedom."
 
         },{
-            type: 'info',
+            type: 'success',
             timer: 4000
         });
 
   });
-</script>
+</script> -->
 
 </body>
 </html>
