@@ -1,11 +1,4 @@
   <div id="banner" class="parallax-container">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <br><br>
-        <h1 class="header center white-text text-lighten-2"><?=$title?></h1>
-        <br><br>
-      </div>
-    </div>
     <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
   </div>
 

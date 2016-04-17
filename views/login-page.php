@@ -1,15 +1,8 @@
 <div id="banner" class="parallax-container">
-  <div class="section">
-    <div class="valign-wrapper">
-        <br><br>
-        <h1 class="header center white-text text-lighten-2"><?=$title?></h1>
-        <br><br>
-    </div>
-  </div>
   <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
 </div>
 <div class="container">
-  <div id="info" class="section">
+  <div class="section" style="margin:10px;">
     <div class="row">
       <form class="col s12">
         <div class="row">

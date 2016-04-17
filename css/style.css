@@ -68,6 +68,9 @@ body > nav > div > ul.right.hide-on-med-and-down > li > a {
 .btn-large {
   text-shadow: 2px 2px #5d4037;
 }
+#download-button:hover {
+  background-color: #a1887f;
+}
 
 .parallax-container {
   min-height: 380px;
