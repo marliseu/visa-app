@@ -12,6 +12,7 @@
 
   // if form submitted
   if (!empty($_POST["submit"]) && $_POST["submit"] == "submit") {
+    print_r ($_POST);
 
     $fname_cleaned = ucfirst(strtolower(trim($_POST['fname']))); // Strips white space, forces capitalization
     $lname_cleaned = ucfirst(strtolower(trim($_POST['lname'])));
@@ -27,19 +28,6 @@
       $formError = "Please fill out all required fields.";
       $isWorking = False;
     }
-
-    // if names aren't alphanumeric
-    // if(!preg_match("/^[a-zA-Z]$/", $_POST['Fname']) &&
-    //    !preg_match("/^[a-zA-Z]$/", $_POST['Lname'])) {
-    //  $formError = "Name can only be composed of letters + numbers.";
-    //  $isWorking = False;
-    // }
-
-    // if email is NOT valid
-    // if (!eregi("^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$", $_POST['email']) && $isWorking) {
-    //   $formError = "Please enter valid email address.";
-    //   $isWorking = False;
-    // }
 
     // If passwords mismatch
     if ($_POST['password'] != $_POST['password2'] && $isWorking) {
@@ -57,7 +45,7 @@
       $isWorking = False;
     }
 
-    $cryptpw = password_hash($_POST["password"], PASSWORD_DEFAULT);
+    $cryptpw = $_POST["password"];
     if ($cryptpw == false){
       $formError = "Failed to encrypt password.";
       $isWorking = False;
