@@ -1,5 +1,5 @@
 <body>
-  <nav class="brown" role="navigation">
+  <nav class="brown darken-3" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="index.php" class="brand-logo">Logo</a>
       <ul class="right hide-on-med-and-down">

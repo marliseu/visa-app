@@ -16,7 +16,7 @@
   <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
 </div>
 <div class="container">
-  <h3 class="center black-text">How It Works</h3>
+  <h3 class="center" style="margin-top:40px;">How It Works</h3>
   <div class="section">
     <!--   Icon Section   -->
     <div class="row">

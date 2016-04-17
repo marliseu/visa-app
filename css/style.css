@@ -32,8 +32,10 @@ html, body {
 }
 
 h1 {
+  margin-top: 20%;
   font-family: 'Lato', sans-serif;
   font-style: 'Light';
+  font-weight: 300;
 }
 
 nav ul a,
