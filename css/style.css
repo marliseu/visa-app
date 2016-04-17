@@ -6,9 +6,25 @@
  * Made By MaterializeCSS.com
  */
 
+ body {
+  font-family: 'Lato', sans-serif;
+  background-color: #efebe9;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-style: 'Light';
+}
+
 nav ul a,
 nav .brand-logo {
-  color: #795548;
+  color: #ffffff;
+}
+#nav-mobile {
+  background-color: #efebe9;
+}
+#nav-mobile > li {
+  color: #ffffff;
 }
 
 p {
@@ -16,7 +32,7 @@ p {
 }
 
 .button-collapse {
-  color: #795548;
+  color:#ffffff;
 }
 
 #nav-mobile > li:hover {

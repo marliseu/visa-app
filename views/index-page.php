@@ -4,11 +4,11 @@
       <br><br>
       <h1 class="header center white-text text-lighten-2">Safety First</h1>
       <div class="row center">
-        <h5 class="header col s12 light">Because the best way to avoid a tragedy is to prevent it.</h5>
+        <h5 class="header col s12 light">Addiction can take over your life. <br />Free yourself.</h5>
       </div>
-      <div class="row center">
-        <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Get Started</a>
-        <a href="login.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Login</a>
+      <div class="row center col-sm-4">
+            <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Get Started</a>
+            <a href="login.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Log In</a>
       </div>
       <br><br>
 
@@ -107,7 +107,7 @@
   <div class="section no-pad-bot">
     <div class="container">
       <div class="row center">
-        <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+        <h5 class="header col s12 light">Because the best way to avoid a tragedy is to prevent it.</h5>
       </div>
     </div>
   </div>

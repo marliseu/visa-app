@@ -8,8 +8,8 @@
     </div>
     <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
   </div>
-  <div class="container">
-    <div class="section">
+  <div class="card brown lighten-5">
+    <div class="card-content">
       <div class="row">
         <form class="col s12">
           <div class="row">
@@ -34,7 +34,7 @@
             <div class="input-field col s12">
               <i class="material-icons brown-text prefix">vpn_key</i>
               <input id="password" type="password" name="password2" class="validate" required>
-              <label for="password">Password Confrim</label>
+              <label for="password">Password Confirm</label>
             </div>
           </div>
           <div class="row">
