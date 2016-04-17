@@ -8,7 +8,7 @@
     </div>
     <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
   </div>
-<<<<<<< Updated upstream
+
   <div class="container">
     <div class="section">
       <form class="col s12">
@@ -17,11 +17,10 @@
             <i class="material-icons brown-text prefix">account_circle</i>
             <input id="first_name" type="text" name="fname" class="validate" required>
             <label for="first_name">First Name</label>
-=======
 
-<div class="container">
+<!-- <div class="container">
     <div class="section">
-
+ -->
 
   <div class="card brown lighten-5">
     <div class="card-content">
