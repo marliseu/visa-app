@@ -86,7 +86,7 @@ demo = {
     
         var dataPreferences = {
             series: [
-                [25, 30, 20, 25]
+                [5, 10, 15, 20]
             ]
         };
         
@@ -134,7 +134,7 @@ demo = {
     	
     	$.notify({
         	icon: "pe-7s-gift",
-        	message: "Welcome to <b>Light Bootstrap Dashboard</b> - a beautiful freebie for every web developer."
+        	message: "Welcome to <b>First Step</b> - to a beautiful freedom."
         	
         },{
             type: type[color],
