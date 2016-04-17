@@ -59,6 +59,10 @@ p {
   background-color: #a1887f;
 }
 
+#index-banner > div.section.no-pad-bot {
+  
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
