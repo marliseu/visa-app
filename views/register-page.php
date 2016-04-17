@@ -55,7 +55,7 @@
             </div>
           </div>
           <div class="center-align">
-            <button class="btn waves-effect brown waves-light" type="submit" name="action">Submit
+            <button class="btn waves-effect brown waves-light" type="submit" name="submit" value="submit">Submit
               <i class="material-icons right">send</i>
             </button>
           </div>
