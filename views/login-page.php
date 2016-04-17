@@ -1,5 +1,5 @@
-<div id="banner" class="parallax-container" style="height:45%;">
-  <div class="section no-pad-bot">
+<div id="banner" class="parallax-container">
+  <div class="section">
     <div class="container">
       <br><br>
       <h1 class="header center white-text text-lighten-2">Log In</h1>
@@ -10,7 +10,7 @@
 <div class="container" id="form" style="height:55%;">
   <div class="section" style="margin:10px;">
     <div class="row">
-      <form class="col s12">
+      <form class="col s12" action="login.php" method="post">
         <div class="row">
           <div class="input-field col s12">
             <i class="material-icons brown-text prefix">email</i>
@@ -26,7 +26,7 @@
           </div>
         </div>
         <div class="center-align">
-          <button class="btn waves-effect brown waves-light" type="submit" name="action">Submit
+          <button class="btn waves-effect brown waves-light" type="submit" value="submit">Submit
             <i class="material-icons right">send</i>
           </button>
         </div>

@@ -7,7 +7,13 @@
       </ul>
 
       <ul id="nav-mobile" class="side-nav">
-        <li><a href="#">Rick Astley</a></li>
+        <li><a href="index.php">Home</a></li>
+        <?php if (!isset($_SESSION['id']) || $_SESSION['id'] == '' ){
+          echo '<li><a href="login.php">Log In</a></li>';
+        } else {
+          echo '<li><a href="dashboard.html">Dashboard</a></li>';
+        }
+        ?>
       </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>

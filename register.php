@@ -1,4 +1,5 @@
 <?php
+  require('inc/databaseconnect.php');
 
   // User input
   $fname = "";
@@ -12,7 +13,6 @@
 
   // if form submitted
   if (!empty($_POST["submit"]) && $_POST["submit"] == "submit") {
-    print_r ($_POST);
 
     $fname_cleaned = ucfirst(strtolower(trim($_POST['fname']))); // Strips white space, forces capitalization
     $lname_cleaned = ucfirst(strtolower(trim($_POST['lname'])));
@@ -45,7 +45,7 @@
       $isWorking = False;
     }
 
-    $cryptpw = $_POST["password"];
+    $cryptpw = password_hash($_POST["password"], PASSWORD_DEFAULT);
     if ($cryptpw == false){
       $formError = "Failed to encrypt password.";
       $isWorking = False;

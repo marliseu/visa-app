@@ -10,7 +10,7 @@ var jump=function(e)
    $('html,body').animate(
    {
        scrollTop: $(target).offset().top
-   },3000,function()
+   },2000,function()
    {
        location.hash = target;
    });

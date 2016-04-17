@@ -23,11 +23,8 @@ html, body {
   width: 100%;
   height: 100%;
 }
-#index-banner > div.section.no-pad-bot > div {
-  margin-top: 10%;
-}
-#banner {
-  height:90%;
+#banner > div.section > div {
+    vertical-align: middle;
 }
 
  body {
@@ -36,8 +33,6 @@ html, body {
   color: #3e2723;
 }
 body > nav {
-  position:fixed;
-  z-index:4;
 }
 
 
@@ -53,9 +48,9 @@ nav .brand-logo {
   color: #ffffff;
 }
 #nav-mobile {
-  background-color: #efebe9;
+  background-color: #5d4037;
 }
-#nav-mobile > li {
+#nav-mobile > li > a {
   color: #ffffff;
 }
 
