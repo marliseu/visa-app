@@ -76,8 +76,8 @@
       <div class="col s12 m4">
         <div class="icon-block">
           <h2 class="center brown-text"><i class="material-icons">smoking_rooms</i></h2>
-          <h5 class="center">Underage Use</h5>
-          <p class="light">Tobacco use is the leading cause of preventable illness and death in the United States. It causes many different cancers as well as chronic lung diseases such as emphysema and bronchitis, heart disease, pregnancy-related problems, and many other serious health problems.</p>
+          <h5 class="center">Tobacco Use</h5>
+          <p class="light">Tobacco use is the leading cause of preventable illness and death in the United States. It has proven to lead to many different cancers, chronic lung diseases (such as emphysema and bronchitis), heart disease, pregnancy-related problems, and many other serious health problems.</p>
         </div>
       </div>
     </div>
