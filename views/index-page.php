@@ -4,11 +4,9 @@
       <br><br>
       <h1 class="header center white-text text-lighten-2">FIRST STEP</h1>
       <div class="row center">
-<<<<<<< HEAD
-        <h5 class="header col s12 light">Because your safety comes first</h5>
-=======
+
         <h5 class="header col s12 light">Addiction can take over your life. <br />Free yourself.</h5>
->>>>>>> origin/php
+
       </div>
       <div class="row center col-sm-4">
             <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown">Get Started</a>
@@ -78,8 +76,8 @@
     <div class="row">
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center brown-text"><i class="material-icons">credit_card</i></h2>
-          <h5 class="center">Card Lock</h5>
+          <h2 class="center brown-text"><i class="material-icons">local_pharmacy</i></h2>
+          <h5 class="center">Effects on Health</h5>
 
           <p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
         </div>
@@ -87,16 +85,16 @@
 
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center brown-text"><i class="material-icons">report_problem</i></h2>
+          <h2 class="center brown-text"><i class="material-icons">local_drink</i></h2>
           <h5 class="center">Alcohol Abuse</h5>
 
-          <p class="light">In 2014, 87.6 percent of people ages 18 or older reported that they drank alcohol at some point in their lifetime; 71.0 percent reported that they drank in the past year; 56.9 percent reported that they drank in the past month.</p>
+          <p class="light">In 2014, 87.65% of people ages 18 or older reported that they drank alcohol at some point in their lifetime; 71.0 percent reported that they drank in the past year; 56.9 percent reported that they drank in the past month.</p>
         </div>
       </div>
 
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center brown-text"><i class="material-icons">location_searching</i></h2>
+          <h2 class="center brown-text"><i class="material-icons">smoking_rooms</i></h2>
           <h5 class="center">Underage Use</h5>
 
           <p class="light">Tobacco use is the leading cause of preventable illness and death in the United States. It causes many different cancers as well as chronic lung diseases such as emphysema and bronchitis, heart disease, pregnancy-related problems, and many other serious health problems.</p>
@@ -113,11 +111,10 @@
   <div class="section no-pad-bot">
     <div class="container">
       <div class="row center">
-<<<<<<< HEAD
-        <h5 class="header col s12 light">9 out of 10 smokers start before the age of 18, and 98% start smoking by age 26.</h5>
-=======
+
+
         <h5 class="header col s12 light">Because the best way to avoid a tragedy is to prevent it.</h5>
->>>>>>> origin/php
+
       </div>
     </div>
   </div>

@@ -8,6 +8,7 @@
     </div>
     <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
   </div>
+<<<<<<< Updated upstream
   <div class="container">
     <div class="section">
       <form class="col s12">
@@ -16,11 +17,29 @@
             <i class="material-icons brown-text prefix">account_circle</i>
             <input id="first_name" type="text" name="fname" class="validate" required>
             <label for="first_name">First Name</label>
-          </div>
-          <div class="input-field col s6">
-            <input id="last_name" type="text" name="lname" class="validate" required>
-            <label for="last_name">Last Name</label>
-          </div>
+=======
+
+<div class="container">
+    <div class="section">
+
+
+  <div class="card brown lighten-5">
+    <div class="card-content">
+
+      <div class="row">
+        <form class="col s12">
+          <div class="row">
+            <div class="input-field col s6">
+              <i class="material-icons prefix">account_circle</i>
+              <input id="first_name" type="text" name="fname" class="validate" required>
+              <label for="first_name">First Name</label>
+            </div>
+            <div class="input-field col s6">
+              <input id="last_name" type="text" name="lname" class="validate" required>
+              <label for="last_name">Last Name</label>
+            </div>
+
+
         </div>
         <div class="row">
           <div class="input-field col s12">
