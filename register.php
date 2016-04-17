@@ -1,4 +1,6 @@
 <?php
+  $title = "Register";
+
   require('views/head.php');
   require('views/navigation.php');
   require('views/register-page.php');
