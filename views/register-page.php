@@ -11,7 +11,8 @@
 
   <div class="container">
     <div class="section">
-      <form class="col s12">
+      <?= $formError ?>
+      <form class="col s12" action="register.php" method="post">
       <div class="row">
         <form class="col s12">
           <div class="row">
@@ -49,7 +50,7 @@
           <div class="row">
             <div class="input-field col s12">
               <i class="material-icons brown-text prefix">credit_card</i>
-              <input id="email" type="email" name="email" class="validate" required>
+              <input id="email" type="number" name="ccnum" class="validate" required>
               <label for="email">Credit Card Number</label>
             </div>
           </div>
