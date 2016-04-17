@@ -60,7 +60,7 @@
               <i class="material-icons right">send</i>
             </button>
           </div>
-          <p class="center-align">Or <a href="login.php" class="brown-text text-lighten-2">log in</a></p>
+          <p class="center-align">Or <a href="login.php" class="brown-text text-lighten-2">Log In</a></p>
         </form>
       </div>
     </div>
