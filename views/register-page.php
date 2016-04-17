@@ -4,16 +4,12 @@
         <br><br>
         <h1 class="header center white-text text-lighten-2">Parallax Template</h1>
         <br><br>
-
       </div>
     </div>
     <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
   </div>
-
-
   <div class="container">
     <div class="section">
-
       <div class="row">
         <form class="col s12">
           <div class="row">
@@ -48,11 +44,19 @@
               <label for="email">Email</label>
             </div>
           </div>
-          <button class="btn waves-effect brown waves-light" type="submit" name="action">Submit
-            <i class="material-icons right">send</i>
-          </button>
+          <div class="row">
+            <div class="input-field col s12">
+              <i class="material-icons brown-text prefix">credit_card</i>
+              <input id="email" type="email" name="email" class="validate" required>
+              <label for="email">Credit Card Number</label>
+            </div>
+          </div>
+          <div class="center-align">
+            <button class="btn waves-effect brown waves-light" type="submit" name="action">Submit
+              <i class="material-icons right">send</i>
+            </button>
+          </div>
         </form>
       </div>
-
     </div>
   </div>

@@ -4,16 +4,12 @@
       <br><br>
       <h1 class="header center white-text text-lighten-2">Parallax Template</h1>
       <br><br>
-
     </div>
   </div>
   <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
 </div>
-
-
 <div class="container">
   <div class="section">
-
     <div class="row">
       <form class="col s12">
         <div class="row">
@@ -37,6 +33,5 @@
         </div>
       </form>
     </div>
-
   </div>
 </div>
