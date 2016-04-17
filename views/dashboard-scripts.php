@@ -17,5 +17,9 @@
 <!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
 <script src="js/demo.js"></script>
 
+<script src="source/canvasjs.js"></script>
+<script src="source/excanvas.js"></script>
+<script src="source/jquery.canvasjs.js"></script>
+
 </body>
 </html>
