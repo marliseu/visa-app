@@ -30,10 +30,10 @@
             <i class="material-icons right">send</i>
           </button>
         </div>
-        <div class="center-align">
-          <p class="center-align">Or <a href="register.php" class="brown-text text-lighten-2">register</a></p>
-        </div>
       </form>
+      <div class="center-align">
+        <p class="center-align">Or <a href="register.php" class="brown-text text-lighten-2">register</a></p>
+      </div>
     </div>
   </div>
 </div>
