@@ -1,4 +1,6 @@
 <?php
+  $title = "Log In";
+  
   require('views/head.php');
   require('views/navigation.php');
   require('views/login-page.php');

@@ -4,11 +4,15 @@
       <br><br>
       <h1 class="header center white-text text-lighten-2">FIRST STEP</h1>
       <div class="row center">
+<<<<<<< HEAD
         <h5 class="header col s12 light">Because your safety comes first</h5>
+=======
+        <h5 class="header col s12 light">Addiction can take over your life. <br />Free yourself.</h5>
+>>>>>>> origin/php
       </div>
-      <div class="row center">
-        <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Get Started</a>
-        <a href="login.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Login</a>
+      <div class="row center col-sm-4">
+            <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown">Get Started</a>
+            <a href="login.php" id="download-button" class="btn-large waves-effect waves-light brown">Log In</a>
       </div>
       <br><br>
 
@@ -109,7 +113,11 @@
   <div class="section no-pad-bot">
     <div class="container">
       <div class="row center">
+<<<<<<< HEAD
         <h5 class="header col s12 light">9 out of 10 smokers start before the age of 18, and 98% start smoking by age 26.</h5>
+=======
+        <h5 class="header col s12 light">Because the best way to avoid a tragedy is to prevent it.</h5>
+>>>>>>> origin/php
       </div>
     </div>
   </div>

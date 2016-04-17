@@ -9,11 +9,16 @@
     </div>
     <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
   </div>
+<<<<<<< HEAD
 
 
   <div class="container">
     <div class="section">
 
+=======
+  <div class="card brown lighten-5">
+    <div class="card-content">
+>>>>>>> origin/php
       <div class="row">
         <form class="col s12">
           <div class="row">
