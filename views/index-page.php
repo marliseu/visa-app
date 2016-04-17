@@ -76,10 +76,15 @@
     <div class="row">
       <div class="col s12 m4">
         <div class="icon-block">
+<<<<<<< HEAD
           <h2 class="center brown-text"><i class="material-icons">local_pharmacy</i></h2>
           <h5 class="center">Effects on Health</h5>
+=======
+          <h2 class="center brown-text"><i class="material-icons">credit_card</i></h2>
+          <h5 class="center">Underage Use</h5>
+>>>>>>> origin/php
 
-          <p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+          <p class="light">According to the CDC, 20 percent of high school students smoke and 28 percent drinl. Research shows many teen smokers think cigarettes are cool. Some drink due to increased stress or family problems, while others drink out of curiosity or to fit in.</p>
         </div>
       </div>
 
@@ -94,8 +99,17 @@
 
       <div class="col s12 m4">
         <div class="icon-block">
+<<<<<<< HEAD
           <h2 class="center brown-text"><i class="material-icons">smoking_rooms</i></h2>
+=======
+<<<<<<< HEAD
+          <h2 class="center brown-text"><i class="material-icons">not_interested</i></h2>
+          <h5 class="center">Health</h5>
+=======
+          <h2 class="center brown-text"><i class="material-icons">location_searching</i></h2>
+>>>>>>> origin/php
           <h5 class="center">Underage Use</h5>
+>>>>>>> origin/php
 
           <p class="light">Tobacco use is the leading cause of preventable illness and death in the United States. It causes many different cancers as well as chronic lung diseases such as emphysema and bronchitis, heart disease, pregnancy-related problems, and many other serious health problems.</p>
         </div>
