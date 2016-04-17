@@ -59,8 +59,12 @@ p {
   background-color: #a1887f;
 }
 
-#index-banner > div.section.no-pad-bot {
-  
+body > nav > div > ul.right.hide-on-med-and-down > li > a {
+  text-shadow: 2px 2px #5d4037;
+}
+
+.btn-large {
+  text-shadow: 2px 2px #5d4037;
 }
 
 .parallax-container {

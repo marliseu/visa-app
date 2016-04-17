@@ -1,9 +1,9 @@
 <div id="banner" class="parallax-container">
-  <div class="section valign-wrapper">
-    <div id="index-header" class="container valign">
-      <br><br>
-      <h1 class="header center white-text text-lighten-2"><?=$title?></h1>
-      <br><br>
+  <div class="section">
+    <div class="valign-wrapper">
+        <br><br>
+        <h1 class="header center white-text text-lighten-2"><?=$title?></h1>
+        <br><br>
     </div>
   </div>
   <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
