@@ -46,22 +46,26 @@
         <a id="logo-container" href="index.php" class="brand-logo">First Step</a>
         <ul class="right hide-on-med-and-down">
           <li><a href="index.php">Home</a></li>
-          <?php if (!isset($_SESSION['id']) || $_SESSION['id'] == '' ){
-            echo '<li><a href="login.php">Log In</a></li>';
-          } else {
-            echo '<li><a href="dashboard.html">Dashboard</a></li>
+          <?php if ($title == "Dashboard"){
+            echo '<li><a href="logoff.php">Log Off</a></li>
             <li><a href="user.html"</li>';
+          } elseif ($title == "Log In") {
+            echo '<li><a href="register.php">Register</a></li>';
+          } else {
+            echo '<li><a href="login.php">Log In</a></li>';
           }
           ?>
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
           <li><a href="index.php">Home</a></li>
-          <?php if (!isset($_SESSION['id']) || $_SESSION['id'] == '' ){
-            echo '<li><a href="login.php">Log In</a></li>';
-          } else {
-            echo '<li><a href="dashboard.html">Dashboard</a></li>
+          <?php if ($title == "Dashboard"){
+            echo '<li><a href="logoff.php">Log Off</a></li>
             <li><a href="user.html"</li>';
+          } elseif ($title == "Log In") {
+            echo '<li><a href="register.php">Register</a></li>';
+          } else {
+            echo '<li><a href="login.php">Log In</a></li>';
           }
           ?>
         </ul>
@@ -69,7 +73,6 @@
       </div>
     </nav>
 
-<div class="content">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-4">
@@ -260,15 +263,15 @@
                 </div>
             </div>
         </div>
-    </div>
+      </div>
 
-<footer class="page-footer brown">
-  <div class="footer-copyright brown">
-    <div class="container brown">
-    Made by <a class="brown-text text-lighten-3" href="http://cs50xmiami.com">Team50</a>
+  <footer class="page-footer brown">
+    <div class="footer-copyright brown">
+      <div class="container brown">
+      Made by <a class="brown-text text-lighten-3" href="http://cs50xmiami.com">Team50</a>
+      </div>
     </div>
-  </div>
-</footer>
+  </footer>
 </div>
 <!--  Scripts-->
 <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
@@ -288,22 +291,6 @@
 <script src="js/light-bootstrap-dashboard.js"></script>
 <!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
 <script src="js/demo.js"></script>
-<!-- <script type="text/javascript">
-  $(document).ready(function(){
-
-      demo.initChartist();
-
-      $.notify({
-          icon: 'pe-7s-gift',
-          message: "Welcome to <b>First Step</b> - a beautiful a step toward freedom."
-
-        },{
-            type: 'success',
-            timer: 4000
-        });
-
-  });
-</script>
 
 </body>
 </html>
