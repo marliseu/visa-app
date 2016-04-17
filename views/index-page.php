@@ -7,8 +7,8 @@
         <h5 class="header col s12 light">Addiction can take over your life. <br />Free yourself.</h5>
       </div>
       <div class="row center col-sm-4">
-            <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Get Started</a>
-            <a href="login.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Log In</a>
+            <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown">Get Started</a>
+            <a href="login.php" id="download-button" class="btn-large waves-effect waves-light brown">Log In</a>
       </div>
       <br><br>
 
