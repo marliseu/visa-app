@@ -1,5 +1,4 @@
 <?php
-
   require ("inc/databaseconnect.php");
 
   $title = 'Log In';
@@ -7,7 +6,6 @@
   $email = "";
   $password = "";
   $formError = "";
-
 
   // If submit button WAS clicked
   if (!empty($_POST["submit"]) && $_POST["submit"] == "submit") {
@@ -28,7 +26,6 @@
     //   $formError = "Please enter valid email address.";
     //   $isWorking = False;
     // }
-
 
     // Check if account found & store user info
     if ($isWorking) {

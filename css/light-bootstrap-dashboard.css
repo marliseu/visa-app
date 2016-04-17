@@ -977,6 +977,7 @@ body > .navbar-collapse[data-color="purple"]:after {
   position: absolute;
   top: 50%;
   margin-top: -15px;
+
 }
 .alert button.close {
   position: absolute;

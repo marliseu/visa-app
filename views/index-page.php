@@ -4,7 +4,7 @@
       <br><br>
       <h1 class="header center white-text text-lighten-2">FIRST STEP</h1>
       <div class="row center">
-        <h5 class="header col s12 light">Addiction can take over your life. <br />Free yourself.</h5>
+        <h5 class="header col s12 light">Addiction can take over your life. <br /></h5>
       </div>
       <div style="padding:20px;"></div>
       <div class="row center sm4">
@@ -26,14 +26,14 @@
           <h2 class="center brown-text"><i class="material-icons">credit_card</i></h2>
           <h5 class="center">Register Card</h5>
 
-          <p class="light">Register any eligible VISA card with our application</p>
+          <p class="light">Register any eligible VISA debit or credit card with our application</p>
         </div>
       </div>
       <div class="col s12 m4">
         <div class="icon-block">
           <h2 class="center brown-text"><i class="material-icons">lock</i></h2>
           <h5 class="center">Set Restrictions</h5>
-          <p class="light">Our Card Block feature enables card restrictions that block the purchase of alcohol or tobacco products from registered VISA cards</p>
+          <p class="light">Our Card Block feature enables card restrictions that block the purchase of alcohol and/or tobacco products from registered VISA cards</p>
         </div>
       </div>
       <div class="col s12 m4">
@@ -50,7 +50,7 @@
   <div class="section no-pad-bot">
     <div class="container">
       <div class="row center">
-        <h5 class="header col s12 light">Drinking and driving statistic</h5>
+        <h5 class="header col s12 light">Free yourself.</h5>
       </div>
     </div>
   </div>
@@ -63,21 +63,21 @@
         <div class="icon-block">
           <h2 class="center brown-text"><i class="material-icons">local_pharmacy</i></h2>
           <h5 class="center">Effects on Health</h5>
-          <p class="light">According to the CDC, 20 percent of high school students smoke and 28 percent drinl. Research shows many teen smokers think cigarettes are cool. Some drink due to increased stress or family problems, while others drink out of curiosity or to fit in.</p>
+          <p class="light">According to the CDC, 20 percent of underage high school students smoke and 28 percent drink. Some report drinking due to increased stress or family problems, while others drink out of curiosity or to fit in. The effects that underage drinking and smoking takes on their health are often irreversible.</p>
         </div>
       </div>
       <div class="col s12 m4">
         <div class="icon-block">
           <h2 class="center brown-text"><i class="material-icons">local_drink</i></h2>
           <h5 class="center">Alcohol Abuse</h5>
-          <p class="light">In 2014, 87.65% of people ages 18 or older reported that they drank alcohol at some point in their lifetime; 71.0 percent reported that they drank in the past year; 56.9 percent reported that they drank in the past month.</p>
+          <p class="light">Nearly 88,000 people (approximately 62,000 men and 26,000 women) die from alcohol-related causes annually, making it the fourth leading preventable cause of death in the United States.</p>
         </div>
       </div>
       <div class="col s12 m4">
         <div class="icon-block">
           <h2 class="center brown-text"><i class="material-icons">smoking_rooms</i></h2>
           <h5 class="center">Tobacco Use</h5>
-          <p class="light">Tobacco use is the leading cause of preventable illness and death in the United States. It has proven to lead to many different cancers, chronic lung diseases (such as emphysema and bronchitis), heart disease, pregnancy-related problems, and many other serious health problems.</p>
+          <p class="light">Tobacco use is the leading cause of preventable illness and death in the United States. It has proven to lead to different cancers, chronic lung diseases, heart disease, pregnancy-related problems, and many other serious health problems.</p>
         </div>
       </div>
     </div>
