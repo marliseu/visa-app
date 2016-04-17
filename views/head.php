@@ -26,7 +26,7 @@
   <title>
     <?php if (isset($title)) {
         echo $title . " | First Step";
-    } elseif  {
+    } else {
         echo "First Step";
     } ?>
   </title>

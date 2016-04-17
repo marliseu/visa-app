@@ -9,7 +9,6 @@
 
   // If submit button WAS clicked
   if (!empty($_POST["submit"]) && $_POST["submit"] == "submit") {
-    print_r($_POST);
     //TODO Clean Vars
     $email_cleaned = trim(strtolower($_POST['email']));
     $password_cleaned = $_POST['password'];
