@@ -197,8 +197,7 @@
                                                 <input type="checkbox" value="" data-toggle="checkbox" checked="">
                                             </label>
                                         </td>
-                                        <td>Made a searching and fearless moral inventory of ourselves.
-</td>
+                                        <td>Made a searching and fearless moral inventory of ourselves.</td>
                                         <td class="td-actions text-right">
                                             <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
                                                 <i class="fa fa-edit"></i>
@@ -264,32 +263,3 @@
             </div>
         </div>
       </div>
-
-  <footer class="page-footer brown">
-    <div class="footer-copyright brown">
-      <div class="container brown">
-      Made by <a class="brown-text text-lighten-3" href="http://cs50xmiami.com">Team50</a>
-      </div>
-    </div>
-  </footer>
-</div>
-<!--  Scripts-->
-<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="js/materialize.js"></script>
-<script src="js/init.js"></script>
-<script src="js/scroll-to-div.js"></script>
-<script src="js/jquery-1.10.2.js" type="text/javascript"></script>
-<script src="js/bootstrap.min.js" type="text/javascript"></script>
-<!--  Checkbox, Radio & Switch Plugins -->
-<script src="js/bootstrap-checkbox-radio-switch.js"></script>
-<!--  Charts Plugin -->
-<script src="js/chartist.min.js"></script>
-<!--  Notifications Plugin    -->
-<script src="js/bootstrap-notify.js"></script>
-<!-- Light Bootstrap Table Core javascript and methods for Demo purpose -->
-<script src="js/light-bootstrap-dashboard.js"></script>
-<!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
-<script src="js/demo.js"></script>
-
-</body>
-</html>

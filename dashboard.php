@@ -12,10 +12,15 @@
                 "feeProgramIndicator"=> "123"
               );
   //header('Content-type: text/javascript');
+  echo "<div>";
   echo "<h4> History </h4>\n";
   echo "Transaction ID:  " . $data['transactionIdentifier'] . "  " .
        "Action Code:  " . $data['actionCode'] . "  " .
        "Date:  " . $data['transmissionDateTime'];
+  echo "</div>";
   //$json_string = json_encode($data, JSON_PRETTY_PRINT);
 
   //require('visaDirect.php');
+
+require('views/dashboard-footer.php');
+require('views/dashboard-scripts.php');
