@@ -57,11 +57,6 @@ input.onkeyup = function (e) {
     this.selectionStart = this.selectionEnd = caretPosition;
 }
 
-input.focus();
-</script>
-=======
-</script> -->
->>>>>>> origin/php
 
 </body>
 </html>
