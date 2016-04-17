@@ -2,7 +2,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center white-text text-lighten-2"><?=$title?></h1>
+        <h1 class="header center white-text text-lighten-2">Safety First</h1>
         <br><br>
       </div>
     </div>
