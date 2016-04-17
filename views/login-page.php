@@ -1,6 +1,6 @@
-<div id="index-banner" class="parallax-container">
+<div id="banner" class="parallax-container">
   <div class="section no-pad-bot">
-    <div class="container">
+    <div id="index-header" class="container valign">
       <br><br>
       <h1 class="header center white-text text-lighten-2"><?=$title?></h1>
       <br><br>
@@ -9,7 +9,7 @@
   <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
 </div>
 <div class="container">
-  <div class="section">
+  <div id="info" class="section">
     <div class="row">
       <form class="col s12">
         <div class="row">

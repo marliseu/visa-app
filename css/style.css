@@ -6,9 +6,36 @@
  * Made By MaterializeCSS.com
  */
 
+ /* Navbar */
+#logo-container {
+  text-shadow: 2px 2px #5d4037;
+}
+
+/* Content */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+#index-banner {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+#banner {
+  height:10%;
+}
+.container {
+  padding:auto;
+}
+.section {
+  height:100%;
+  margin:0;
+}
+
  body {
   font-family: 'Lato', sans-serif;
   background-color: #efebe9;
+  color: #3e2723;
 }
 
 h1 {
@@ -72,6 +99,7 @@ p {
   font-size: inherit;
 }
 
+/* Footer */
 footer.page-footer {
   margin: 0;
 }
