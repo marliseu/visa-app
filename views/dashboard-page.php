@@ -72,7 +72,7 @@
         <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
       </div>
     </nav>
-
+<div class="content">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-4">
@@ -260,6 +260,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
             </div>
         </div>
       </div>
