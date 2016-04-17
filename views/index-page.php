@@ -7,8 +7,8 @@
         <h5 class="header col s12 light">Addiction can take over your life. <br />Free yourself.</h5>
       </div>
       <div class="row center col-sm-4">
-            <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown">Get Started</a>
-            <a href="login.php" id="download-button" class="btn-large waves-effect waves-light brown">Log In</a>
+            <a href="register.php" id="download-button" class="btn-large hoverable waves-effect waves-light brown">Get Started</a>
+            <a href="login.php" id="download-button" class="btn-large hoverable waves-effect waves-light brown">Log In</a>
       </div>
       <br><br>
     </div>
@@ -16,7 +16,7 @@
   <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
 </div>
 <div class="container">
-  <h3 class="center black-text">HOW IT WORKS</h3>
+  <h3 class="center black-text">How It Works</h3>
   <div class="section">
     <!--   Icon Section   -->
     <div class="row">

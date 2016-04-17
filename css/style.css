@@ -24,13 +24,6 @@ html, body {
 #banner {
   height:10%;
 }
-.container {
-  padding:auto;
-}
-.section {
-  height:100%;
-  margin:0;
-}
 
  body {
   font-family: 'Lato', sans-serif;
