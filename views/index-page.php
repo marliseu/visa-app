@@ -2,9 +2,9 @@
   <div class="section no-pad-bot">
     <div class="container">
       <br><br>
-      <h1 class="header center white-text text-lighten-2">Safety First</h1>
+      <h1 class="header center white-text text-lighten-2">FIRST STEP</h1>
       <div class="row center">
-        <h5 class="header col s12 light">Because the best way to avoid a tragedy is to prevent it.</h5>
+        <h5 class="header col s12 light">Because your safety comes first</h5>
       </div>
       <div class="row center">
         <a href="register.php" id="download-button" class="btn-large waves-effect waves-light brown lighten-1">Get Started</a>
@@ -19,6 +19,8 @@
 
 
 <div class="container">
+  <h3 class="center black-text">HOW IT WORKS</h3>
+
   <div class="section">
 
     <!--   Icon Section   -->
@@ -26,7 +28,16 @@
       <div class="col s12 m4">
         <div class="icon-block">
           <h2 class="center brown-text"><i class="material-icons">credit_card</i></h2>
-          <h5 class="center">Register</h5>
+          <h5 class="center">Register Card</h5>
+
+          <p class="light">Register any eligible VISA card with our application</p>
+        </div>
+      </div>
+
+      <div class="col s12 m4">
+        <div class="icon-block">
+          <h2 class="center brown-text"><i class="material-icons">lock</i></h2>
+          <h5 class="center">Set Restrictions</h5>
 
           <p class="light">Our Card Block feature enables card restrictions that block the purchase of alcohol or tobacco products from registered VISA cards</p>
         </div>
@@ -34,19 +45,10 @@
 
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center brown-text"><i class="material-icons">not_interested</i></h2>
-          <h5 class="center">Set Restrictions</h5>
-
-          <p class="light">In 2014, 87.6 percent of people ages 18 or older reported that they drank alcohol at some point in their lifetime; 71.0 percent reported that they drank in the past year; 56.9 percent reported that they drank in the past month.</p>
-        </div>
-      </div>
-
-      <div class="col s12 m4">
-        <div class="icon-block">
-          <h2 class="center brown-text"><i class="material-icons">report_problem</i></h2>
+          <h2 class="center brown-text"><i class="material-icons">error</i></h2>
           <h5 class="center">Receive Notifications</h5>
 
-          <p class="light">Tobacco use is the leading cause of preventable illness and death in the United States. It causes many different cancers as well as chronic lung diseases such as emphysema and bronchitis, heart disease, pregnancy-related problems, and many other serious health problems.</p>
+          <p class="light">Receive instant notifications for attempted purchases made with registered and restricted VISA cards</p>
         </div>
       </div>
     </div>
@@ -59,7 +61,7 @@
   <div class="section no-pad-bot">
     <div class="container">
       <div class="row center">
-        <h5 class="header col s12 light"> 9 out of 10 smokers start before the age of 18,  and 98% start smoking by age 26.</h5>
+        <h5 class="header col s12 light">Drinking and driving statistic</h5>
       </div>
     </div>
   </div>
@@ -90,7 +92,7 @@
 
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center brown-text"><i class="material-icons">not_interested</i></h2>
+          <h2 class="center brown-text"><i class="material-icons">location_searching</i></h2>
           <h5 class="center">Underage Use</h5>
 
           <p class="light">Tobacco use is the leading cause of preventable illness and death in the United States. It causes many different cancers as well as chronic lung diseases such as emphysema and bronchitis, heart disease, pregnancy-related problems, and many other serious health problems.</p>
@@ -107,7 +109,7 @@
   <div class="section no-pad-bot">
     <div class="container">
       <div class="row center">
-        <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+        <h5 class="header col s12 light">9 out of 10 smokers start before the age of 18, and 98% start smoking by age 26.</h5>
       </div>
     </div>
   </div>
