@@ -65,8 +65,8 @@
 
     // Saves info to users database
     if ($isWorking) {
-      mysqli_query($db, "INSERT INTO `users` (`fname`, `lname`, `email`, `password`, `ccnum`)
-                              VALUES ('$fname_cleaned', '$lname_cleaned', '$email_cleaned', '$cryptpw', '$ccnum_cleaned')");
+      mysqli_query($db, "INSERT INTO `users` (`email`, `password`, `ccnum`, `fname`, `lname`)
+                              VALUES ('$email_cleaned', '$cryptpw', '$ccnum_cleaned', '$fname_cleaned', '$lname_cleaned')");
       header("location: index.php");
     }
   }
