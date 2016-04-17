@@ -15,13 +15,19 @@
 
 /* Content */
 html, body {
-  height: 100%!important;
+  height: 100%;
+  width:100%;
   margin: 0;
 }
 #index-banner {
   display: table;
   width: 100%;
-  height: 100%!important;
+  height: 100%;
+}
+#banner {
+  display: table;
+  width: 100%;
+  height:25%;
 }
 #banner > div.section > div {
     vertical-align: middle;
@@ -33,7 +39,7 @@ html, body {
   color: #3e2723;
 }
 body > nav {
-  
+
 }
 
 

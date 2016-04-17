@@ -7,7 +7,7 @@
         <h5 class="header col s12 light">Addiction can take over your life. <br />Free yourself.</h5>
       </div>
       <div style="padding:20px;"></div>
-      <div class="row center col-sm-4">
+      <div class="row center sm4">
             <a href="register.php#form" id="download-button" class="btn-large hoverable waves-effect waves-light brown" style="margin:5px;">Get Started</a>
             <a href="#info" id="download-button" class="btn-large hoverable waves-effect waves-light brown">Learn More</a>
       </div>
