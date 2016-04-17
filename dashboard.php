@@ -22,5 +22,3 @@
 
   //require('visaDirect.php');
 
-require('views/dashboard-footer.php');
-require('views/dashboard-scripts.php');
