@@ -1,5 +1,7 @@
 <?php
 
+  $title = "";
+
   require('views/head.php');
   require('views/navigation.php');
   require('views/index-page.php');
